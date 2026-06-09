@@ -44,11 +44,11 @@ Financial habits start forming at **7 years old** (Cambridge Research), yet most
 
 ## 🐾 How Bucks Works
 Camera & Sensors (Raspberry Pi)
-↓
+→
 Perception: YOLO (Object Detection) + MediaPipe (Pose Estimation)
-↓
+→
 Context Fusion Engine (Pose + Object = Action)
-↓
+→
 Feedback: ElevenLabs Voice Agent + iPad/iPhone App + Hardware (Motor Controls, LED Strip, Bark)
 
 **When a child completes a chore:**
